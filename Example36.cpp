@@ -1,11 +1,11 @@
-#include <conio.h>
+п»ї#include <conio.h>
 #include <stdio.h>
 
 
 
 long int fact(int n);
 
-//Главная функция
+//Р“Р»Р°РІРЅР°СЏ С„СѓРЅРєС†РёСЏ
 int main()
 {
 	int num;
