@@ -5,6 +5,7 @@
 
 long int fact(int n);
 
+//Главная функция
 int main()
 {
 	int num;
